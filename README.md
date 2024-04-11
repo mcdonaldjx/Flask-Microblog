@@ -12,7 +12,7 @@
   <summary>Table of Contents</summary>
   <ul>
       <li><a href="https://github.com/mcdonaldjx/Flask-Microblog/tree/main/Chapter%1%Files">Chapter 1: Hello, World!</a></li>
-      <li><a href="https://github.com/mcdonaldjx/Flask-Microblog/tree/main/Chapter%2%Files">Chapter 2: Templates</a></li>
+      <li><a href="https://github.com/mcdonaldjx/Flask-Microblog/tree/0cdbfc957d467a94a31734597fedc9014d0a9d06/Chapter%202%20Files">Chapter 2: Templates</a></li>
       <li><a href="https://github.com/mcdonaldjx/Flask-Microblog/tree/main/Chapter%3%Files">Chapter 3: Web Forms</a></li>
       <li><a href="https://github.com/mcdonaldjx/Flask-Microblog/tree/main/Chapter%4%Files">Chapter 4: Database</a></li>
       <li><a href="https://github.com/mcdonaldjx/Flask-Microblog/tree/main/Chapter%5%Files">Chapter 5: User Logins</a></li>
